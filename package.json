@@ -1,0 +1,22 @@
+{
+  "name": "lettertoken",
+  "version": "1.0.0",
+  "description": "The letter token makes it possible to allow users to buy and transfer copies of ebooks and audiobooks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c0dezer019/"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart contracts",
+    "contracts",
+    "token"
+  ],
+  "author": "Brian Blankenship",
+  "license": "MIT"
+}
