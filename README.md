@@ -8,8 +8,7 @@ Back in the day, audio, books, and other creative mediums were able to be downlo
 
 ## **The solution**
 
-
-## **FAQ**
+ERC721 (EIP-721 AKA NFT) is part two of the greater solution.
 
 #### **What is ERC721**
 
@@ -23,4 +22,6 @@ Transactions on the blockchain are immutable, meaning they cannot be changed aft
 
 #### **Is this better than DRM?**
 
-It isn't on its own. DRM is a tool, and an NFT is more of a deed as explained above. But unlike DRM, you can use technology to make sure that only the person that has owns the token has access to whatever the token represents. You could tie DRM and NFT together even. ERC721 is only 
+It isn't on its own. DRM is a tool, and an NFT is more of a deed as explained above. But unlike DRM, you can use technology to make sure that only the person that owns the token has access to whatever the token represents. You could tie DRM and NFT together even. ERC721 is only part of the solution because unlike DRM, ERC721 doesn't actually control how you use the content it represents. You can however use 721 to control who has access. For example, with tech like Web3 that allows you to interact with the smart-contract with your app, you could use the Letter smart-contract to check if a person actually owns the NFT. Only then, do you allow a user to access the content they seek.
+
+***
