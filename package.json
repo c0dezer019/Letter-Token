@@ -17,5 +17,9 @@
     "token"
   ],
   "author": "Brian Blankenship",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.2.0"
+  }
 }
